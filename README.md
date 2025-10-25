@@ -1,0 +1,1 @@
+L’objectif de ce projet est de manipuler les bases de Vue.js (version 3 via CDN) à travers la création d’une petite application interactive permettant d’afficher et de filtrer une liste de personnes provenant d’un fichier JSON.
